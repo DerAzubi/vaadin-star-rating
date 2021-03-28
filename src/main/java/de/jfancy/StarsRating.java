@@ -6,17 +6,15 @@ import com.vaadin.flow.component.PropertyDescriptor;
 import com.vaadin.flow.component.PropertyDescriptors;
 import com.vaadin.flow.component.Tag;
 import com.vaadin.flow.component.dependency.JsModule;
-import com.vaadin.flow.component.dependency.NpmPackage;
 
 /**
- * Star-Rating Component (
+ * Star-Rating Component
  *
  * @author Marcus
  * @author JFancy
  */
 @Tag("stars-rating")
-@JsModule("@manufosela/stars-rating/stars-rating.js")
-@NpmPackage(value = "@manufosela/stars-rating", version = "^3.3.6")
+@JsModule(value = "starrating.js")
 public class StarsRating extends AbstractSinglePropertyField<StarsRating, Integer> {
 
     /**

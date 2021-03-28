@@ -21,3 +21,5 @@ webpack.generated.js
 webpack.config.js
 package.json
 package-lock.json
+settings.xml
+frontend/generated/vaadin.ts
