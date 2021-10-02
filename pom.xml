@@ -6,13 +6,13 @@
 
 	<groupId>de.jfancy</groupId>
 	<artifactId>star-rating</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<name>star-rating</name>
 	<description>Integration of stars-rating for Vaadin platform</description>
 	<url>https://github.com/DerAzubi/vaadin-star-rating</url>
 
 	<properties>
-		<vaadin.version>14.4.6</vaadin.version>
+		<vaadin.version>21.0.2</vaadin.version>
 
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>

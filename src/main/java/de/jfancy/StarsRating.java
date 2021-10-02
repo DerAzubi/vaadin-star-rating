@@ -14,7 +14,7 @@ import com.vaadin.flow.component.dependency.JsModule;
  * @author JFancy
  */
 @Tag("stars-rating")
-@JsModule(value = "starrating.js")
+@JsModule(value = "./starrating.js")
 public class StarsRating extends AbstractSinglePropertyField<StarsRating, Integer> {
 
     /**
