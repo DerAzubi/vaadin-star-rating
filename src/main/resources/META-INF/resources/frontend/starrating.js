@@ -1,5 +1,5 @@
 import { LitElement, html, css } from 'lit-element';
-import { repeat } from 'lit/directives/repeat';
+import { repeat } from 'lit/directives/repeat.js';
 
 /**
  * `stars-rating`
